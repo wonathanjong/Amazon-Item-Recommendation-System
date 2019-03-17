@@ -1,0 +1,16 @@
+
+deargod.xlsx
+obj/itemBasketDictionary.json
+obj/itemBasketDictionary.pkl
+obj/itemCosineSimilarityBasketDictionary.json
+obj/itemCosineSimilarityBasketDictionary.pkl
+obj/itemSimilarityDict.json
+obj/top10AnalysisData.json
+obj/top10List.json
+obj/top10PertinentData.json
+obj/totalsDictionary.json
+obj/uniqueItems.pkl
+obj/uniqueItemsAndCustomers.json
+obj/uniqueItemsAndCustomers.pkl
+obj/userItemsPurchased.json
+obj/userItemsPurchased.pkl
